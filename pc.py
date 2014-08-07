@@ -32,12 +32,5 @@ def check(query):
         print('Invalid')
         
 
-##output = open('postcode_results.txt', 'w')
-##
-##for each in new_list:
-##
-##    output.write(each +"\n")
-
-
 
     
