@@ -1,3 +1,5 @@
+#! /usr/bin/python3
+
 new_list = []
 suffix0 = '0123456789'
 suffix1 = 'abcdefghijklmnopqrstuvwxyz'
